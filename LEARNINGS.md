@@ -5,24 +5,25 @@ This journal tracks what I learn, what surprises me, what's difficult, and what 
 
 ---
 
-## Session 1: [Date]
-**Time spent:** [hours]
+## Session 1: 11/15/2025
+**Time spent:** 1.5
 **Phase:** Environment Setup
 
 ### What I Worked On
--
+-I got the test environment set up and was able to run a test that connected to the anthropic API
 
 ### What I Learned
--
+- This is actuqally pretty simple so far as you just offload the brains to the api
 
 ### What Surprised Me
 -
 
 ### What Was Harder Than Expected
--
+- Remembering how to initiate the virtual environment
+
 
 ### What Clicked/Made Sense
--
+-That this really just runs as a loop.
 
 ### Questions I Still Have
 -
